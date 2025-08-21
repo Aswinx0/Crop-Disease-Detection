@@ -27,14 +27,7 @@ OpenCV & PIL (for image processing)
 
 Matplotlib & Seaborn (for visualization)
 
-📁 Project Structure
-text
-├── notebooks/
-│   └── Plant_Disease_Detection.ipynb  # Main training & analysis notebook
-├── models/                             # Saved pre-trained models
-├── data/                               # Dataset directory
-├── results/                            # Output graphs & metrics
-└── README.md
+
 📊 Results
 The ViT-B16 model achieved the following results on the PlantVillage dataset:
 
@@ -50,10 +43,7 @@ Open on Kaggle: Link to your Kaggle Notebook
 
 Run all cells to install dependencies, load data, train models, and view results.
 
-📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-💡 Note: This project was developed on Kaggle. For local execution, please ensure all dependencies from requirements.txt are installed.
