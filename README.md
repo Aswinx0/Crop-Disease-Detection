@@ -31,10 +31,10 @@ Matplotlib & Seaborn (for visualization)
 📊 Results
 The ViT-B16 model achieved the following results on the PlantVillage dataset:
 
-Model	Accuracy	Precision	Recall	F1-Score
-ViT-B16	93.47%	0.94	0.93	0.93
-Sample Confusion Matrix:
-https://i.imgur.com/example-image.png
+Model	Accuracy:93.47%
+Precision:0.94
+Recall:0.93
+F1-Score:0.93
 
 🏃‍♂️ Quick Start
 The project is developed on Kaggle and uses the Plant Village Dataset.
