@@ -15,26 +15,26 @@ An AI-powered system that accurately identifies diseases in various plants from 
 - Comprehensive Analysis: Includes confusion matrices, classification reports, and performance graphs.
 
 ## 🛠️ Tech Stack
-Python
+- Python
 
-TensorFlow / Keras
+- TensorFlow / Keras
 
-TensorFlow Hub (for pre-trained ViT models)
+- TensorFlow Hub (for pre-trained ViT models)
 
-Scikit-learn (for metrics)
+- Scikit-learn (for metrics)
 
-OpenCV & PIL (for image processing)
+- OpenCV & PIL (for image processing)
 
-Matplotlib & Seaborn (for visualization)
+- Matplotlib & Seaborn (for visualization)
 
 
 ## 📊 Results
 The ViT-B16 model achieved the following results on the PlantVillage dataset:
 
-Model	Accuracy:93.47%
-Precision:0.94
-Recall:0.93
-F1-Score:0.93
+- Model	Accuracy:93.47%
+- Precision:0.94
+- Recall:0.93
+- F1-Score:0.93
 
 ## 🏃‍♂️ Quick Start
 The project is developed on Kaggle and uses the Plant Village Dataset.
